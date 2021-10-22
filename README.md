@@ -36,8 +36,8 @@
 
 <!-- Profile Trophy -->
 ### 🏆 GitHub Profile Trophy:
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=gulshanyadav01&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+<a href="https://github.com/ryo-m/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=kunal-kumar-au8&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
 
 

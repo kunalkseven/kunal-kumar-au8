@@ -1,4 +1,4 @@
-### Hi there, I'm Kunal Kumar <img src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/Hi.gif" width="22px">
+### Hi there, I'm Kunal Kumar <img src="https://github.com/username=kunal-kumar-au8/username=kunal-kumar-au8/blob/master/Assets/Hi.gif" width="22px">
 
 ---
 
@@ -14,21 +14,21 @@
 
 ### 🧰 Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/javascript.svg" />
-<img align="left" alt="React" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/react-2.svg" />
-<img align="left" alt="React" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/redux.svg" />
-<img align="left" alt="React" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/graphql.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/nodejs-icon.svg" />
-<img align="left" alt="React" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/mongodb-icon-1.svg" />
-<img align="left" alt="C" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/c.png" />
-<img align="left" alt="C++" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/c.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/username=kunal-kumar-au8/username=kunal-kumar-au8/blob/master/Assets/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/username=kunal-kumar-au8/username=kunal-kumar-au8/blob/master/Assets/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/username=kunal-kumar-au8/username=kunal-kumar-au8/blob/master/Assets/javascript.svg" />
+<img align="left" alt="React" width="26px" src="https://github.com/username=kunal-kumar-au8/username=kunal-kumar-au8/blob/master/Assets/react-2.svg" />
+<img align="left" alt="React" width="26px" src="https://github.com/username=kunal-kumar-au8/username=kunal-kumar-au8/blob/master/Assets/redux.svg" />
+<img align="left" alt="React" width="26px" src="https://github.com/username=kunal-kumar-au8/username=kunal-kumar-au8/blob/master/Assets/graphql.svg" />
+<img align="left" alt="Node.js" width="26px" src="https://github.com/username=kunal-kumar-au8/username=kunal-kumar-au8/blob/master/Assets/nodejs-icon.svg" />
+<img align="left" alt="React" width="26px" src="https://github.com/username=kunal-kumar-au8/username=kunal-kumar-au8/blob/master/Assets/mongodb-icon-1.svg" />
+<img align="left" alt="C" width="26px" src="https://github.com/username=kunal-kumar-au8/username=kunal-kumar-au8/blob/master/Assets/c.png" />
+<img align="left" alt="C++" width="26px" src="https://github.com/username=kunal-kumar-au8/username=kunal-kumar-au8/blob/master/Assets/c.svg" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/git-icon.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/username=kunal-kumar-au8/username=kunal-kumar-au8/blob/master/Assets/visual-studio-code.png" />
+<img align="left" alt="Git" width="26px" src="https://github.com/username=kunal-kumar-au8/username=kunal-kumar-au8/blob/master/Assets/git-icon.svg" />
 
-<img align="left" alt="postman" width="26px" border = "1px solid white"  color = "red" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/hello.png" />
+<img align="left" alt="postman" width="26px" border = "1px solid white"  color = "red" src="https://github.com/username=kunal-kumar-au8/username=kunal-kumar-au8/blob/master/Assets/hello.png" />
 
 <br />
 <br />
@@ -43,18 +43,18 @@
 
 <!--   Stats -->
 ### 📊 GitHub Stats:
-![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=gulshanyadav01&theme=nord&show_icons=true&count_private=true)
+![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=username=kunal-kumar-au8&theme=nord&show_icons=true&count_private=true)
   
   
 <!--   Top Languages Using -->
 ### 👨‍💻 Top Languages Used*:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gulshanyadav01&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gulshanyadav01&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=username=kunal-kumar-au8&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=username=kunal-kumar-au8&theme=nord_dark)
 
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gulshanyadav01&theme=github)
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=username=kunal-kumar-au8&theme=github)
 
  <br> 
  
@@ -94,7 +94,7 @@
     
 <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/gulshanyadav01/count.svg" />  
+  <img src="https://profile-counter.glitch.me/username=kunal-kumar-au8/count.svg" />  
 </p>
    
   ---

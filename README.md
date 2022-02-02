@@ -22,8 +22,6 @@
 <img align="left" alt="React" width="26px" src="https://github.com/kunal-kumar-au8/kunal-kumar-au8/blob/master/Assets/graphql.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://github.com/kunal-kumar-au8/kunal-kumar-au8/blob/master/Assets/nodejs-icon.svg" />
 <img align="left" alt="React" width="26px" src="https://github.com/kunal-kumar-au8/kunal-kumar-au8/blob/master/Assets/mongodb-icon-1.svg" />
-<img align="left" alt="C" width="26px" src="https://github.com/kunal-kumar-au8/kunal-kumar-au8/blob/master/Assets/c.png" />
-<img align="left" alt="C++" width="26px" src="https://github.com/kunal-kumar-au8/kunal-kumar-au8/blob/master/Assets/c.svg" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/kunal-kumar-au8/kunal-kumar-au8/blob/master/Assets/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/kunal-kumar-au8/kunal-kumar-au8/blob/master/Assets/git-icon.svg" />
@@ -66,23 +64,23 @@
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
-<a href="https://www.leetcode.com/gulshany01" target="_blank">
-  <img align="center" alt="Gulshan Yadav | Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/leetcode.png" />
+<!-- <a href="https://www.leetcode.com/kunal_kumar_au8" target="_blank">
+  <img align="center" alt="Kunal Kumar | Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/leetcode.png" />
+</a> &nbsp;&nbsp; -->
+<a href="https://www.linkedin.com/in/kunal-kumar-007/" target="_blank">
+  <img align="center" alt="Kunal Kumar | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/gulshany01/" target="_blank">
-  <img align="center" alt="Gulshan Yadav | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+<a href="" target="_blank">
+  <img align="center" alt="Kunal Kumar | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://twitter.com/gulshany01" target="_blank">
-  <img align="center" alt="Gulshan Yadav R | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+<a href="https://www.instagram.com/kunal_0_07/)" target= "_blank">
+  <img align="center" alt="Kunal Kumar | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/gulshany01/" target= "_blank">
-  <img align="center" alt="Gulshan Yadav | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+<a href="mailto:kunalkseven@gmail.com" target="_blank">
+  <img align="center" alt="Kunal Kumar | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="mailto:gulshany01@gmail.com" target="_blank">
-  <img align="center" alt="Gulshan Yadav | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://drive.google.com/file/d/1c6BS_cJqW9JwrqOfVH-3DgqkzeyZ9NXA/view">
-    <img align="center" alt="Gulshan Yadav | Resume" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
+<a href="">
+    <img align="center" alt="Kunal Kumar | Resume" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
 </a> &nbsp;&nbsp;
 <p>
   

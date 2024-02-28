@@ -66,7 +66,7 @@
 ### 📈 GitHub Activity Graph:
  <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kunal-kumar-au8/kunal-kumar-au8/output/snake.svg" alt="Snake animation" />
 
 ###
  
